@@ -1,22 +1,9 @@
 
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-console.log('Credits to xkt on discord. Credits xkt_074 on snapchat');
-
+console.log('https://doxbin.com/user/creepier stop trying to skid');
+console.log('https://doxbin.com/user/creepier stop trying to skid');
+console.log('https://doxbin.com/user/creepier stop trying to skid');
+console.log('https://doxbin.com/user/creepier stop trying to skid');
+console.log('https://doxbin.com/user/creepier stop trying to skid');
 
 window.oncontextmenu = function () {
   return false;
